@@ -4,6 +4,7 @@ import Actors from "./pages/Actors";
 import Movie from "./pages/Movie";
 import ErrorPage from "./pages/ErrorPage";
 
+// this file contains routes
 const routes = [
   {
     path: "/",
